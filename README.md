@@ -7,3 +7,5 @@ Usage:<br>
       >python Res_GUI.py
 	<br>
       >python3 Res_GUI.py
+
+Or download an executable release.
